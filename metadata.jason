@@ -1,0 +1,8 @@
+
+{
+  "name": "Gongiya Fashion Sale",
+  "description": "A high-end fashion e-commerce application featuring AI-powered styling advice, real-time sale updates, and a modern shopping experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
